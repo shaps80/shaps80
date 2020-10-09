@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey GitHub 👋
 
 I have developed many open-source projects over the years to __inspire ideas__ and __help others__ build better products.
 I spend the majority of my open-source life working on __tools and libraries__ to support these goals.
