@@ -2,7 +2,7 @@
 
 I have developed many open-source projects over the years to __inspire ideas__ and __help others__ build better products.
 
-Most recently I created [SwiftUI+](https://github.com/SwiftUI-Plus) a collection of SwiftUI packages that allow you to benefit from newer features all the way back to iOS 13. You can also add the Signed Collection to Xcode using this URL: https://benkau.com/packages.json
+Most recently I created [SwiftUI+](https://github.com/SwiftUI-Plus) a collection of SwiftUI packages that allow you to benefit from newer features all the way back to iOS 13. You can also add the Signed Collection to Xcode 13 https://benkau.com/packages.json
 
 I spend the majority of my open-source life working on __tools and libraries__ to support these goals.
 
