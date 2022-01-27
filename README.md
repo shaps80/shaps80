@@ -11,3 +11,5 @@ I also love to __collaborate with others__ and have contributed to many 3rd part
 I often __write__ about the things I __love and learn__ at [benkau.com](https://benkau.com)
 
 If you want to __get in touch__, you can follow me on Twitter [@shaps](https://twitter.com/shaps)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaps80&show_icons=true)
